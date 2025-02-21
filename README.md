@@ -1,2 +1,2 @@
-# Simple-Form
-it shows how simple form can be made
+# form_filling
+form static website
